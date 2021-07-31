@@ -67,5 +67,5 @@ https://drive.google.com/drive/folders/1idy93JwK-dKZPOoVAZQB40l15cod5FQW?usp=sha
 
 ## Author
 
-- Website - [Mark Cristian Quiazon](https://mcristian18.github.io/challenge1/)
+- Website - [Mark Cristian Quiazon](https://mcristian18.github.io/SPCC/)
 - Challenger (Me) - [@Mcristian18(https://www.frontendmentor.io/profile/Mcristian18)
